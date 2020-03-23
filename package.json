@@ -1,0 +1,12 @@
+{
+  "name": "rn-test",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leehch0/rn-test.git"
+  }
+}
